@@ -1,6 +1,6 @@
 # 🎸 GuitarLA
 
-E-commerce de guitarras desarrollado con React y TypeScript. Este proyecto simula una tienda online con carrito de compras y experiencia de usuario moderna.
+E-commerce de guitarras desarrollado con React y TypeScript + TailwindCss. Este proyecto simula una tienda online con carrito de compras y experiencia de usuario moderna.
 
 ## 🧪 Tecnologías utilizadas
 
